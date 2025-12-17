@@ -14,6 +14,7 @@ SQL Work :
 
 API Work : 
 - API_work_app.py
+- (result in the Notebook work)
 
 Notebook work : 
 - Churn_prediction_project.ipynb
@@ -24,3 +25,5 @@ Tableau work :
 
 Presentation : 
 - Thomas Giret - Data Analytics.pdf
+- Power point bulding : https://docs.google.com/presentation/d/1NMDqTlmaKubnk1tmbVUQuFS3ZFkrigaN/edit?slide=id.p1#slide=id.p1
+

@@ -20,6 +20,7 @@ Notebook work :
 
 Tableau work : 
 - Tableau_sreen.png (link in the presentation.pdf)
+- Dashboard_link : https://public.tableau.com/app/profile/thomas.giret/viz/Classeur_final_project/ChurnDashboard?publish=yes
 
 Presentation : 
 - Thomas Giret - Data Analytics.pdf

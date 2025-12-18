@@ -25,5 +25,5 @@ Tableau work :
 
 Presentation : 
 - Thomas Giret - Data Analytics.pdf
-- Power point bulding : https://docs.google.com/presentation/d/1NMDqTlmaKubnk1tmbVUQuFS3ZFkrigaN/edit?slide=id.p1#slide=id.p1
+- Churn prediction.pptx-2.pdf
 
